@@ -1,0 +1,15 @@
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/bin/Debug/net6.0/Sem1_003
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/bin/Debug/net6.0/Sem1_003.deps.json
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/bin/Debug/net6.0/Sem1_003.runtimeconfig.json
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/bin/Debug/net6.0/Sem1_003.dll
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/bin/Debug/net6.0/Sem1_003.pdb
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.csproj.AssemblyReference.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.AssemblyInfoInputs.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.AssemblyInfo.cs
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.csproj.CoreCompileInputs.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.dll
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/refint/Sem1_003.dll
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.pdb
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/Sem1_003.genruntimeconfig.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/Sem1_003/obj/Debug/net6.0/ref/Sem1_003.dll
