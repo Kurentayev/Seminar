@@ -1,0 +1,15 @@
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/bin/Debug/net6.0/added_gitignore
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/bin/Debug/net6.0/added_gitignore.deps.json
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/bin/Debug/net6.0/added_gitignore.runtimeconfig.json
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/bin/Debug/net6.0/added_gitignore.dll
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/bin/Debug/net6.0/added_gitignore.pdb
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.csproj.AssemblyReference.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.AssemblyInfoInputs.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.AssemblyInfo.cs
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.csproj.CoreCompileInputs.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.dll
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/refint/added_gitignore.dll
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.pdb
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/added_gitignore.genruntimeconfig.cache
+/Users/fly2moon/Desktop/GeekBrains_Sem/Seminar/added_gitignore/obj/Debug/net6.0/ref/added_gitignore.dll
